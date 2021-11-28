@@ -1,0 +1,272 @@
+.body {
+   
+        text-rendering: optimizeLegibility;
+        font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+        font-weight: 400;
+        line-height: 1.15;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        text-align: center;
+}
+a{
+    color:#fff;
+    text-decoration: none;
+    
+}
+
+.H{
+    
+    color: #fff;
+    min-height: 626px;
+    position: relative;
+    background: url("Images/chill2.svg") no-repeat bottom right -25%,
+                url("Images/chill.svg") no-repeat bottom left -30%,
+                url("Images/Montagne.svg") bottom no-repeat ;
+        background-color: #404eed;    
+}
+
+.H1 {
+    display:flex;
+    
+}
+.H2 {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.CON{
+    margin: 10px;
+    padding: 10px;
+}
+
+.H4 {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;    
+}
+h1{
+    font-size: 56px;
+    line-height: 95%;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-family: var(--font-headline);
+    
+}
+.Titre1 {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    
+}
+
+.TX1 {
+    font-size: clamp(16px,2vw,20px);
+    line-height: 1.625;
+
+}
+
+.NAV {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 200px;
+    font-weight: 400;
+    height: 80px;
+    font-size: 15px;
+    color: #fff;
+    
+}
+.bouton {
+border-radius: 40px;
+font-size: 14px;
+padding: 7px 16px;
+line-height: 24px;
+cursor: pointer;
+font-weight: 500;
+}
+.boutonD {
+    border-radius: 28px;
+    font-size: 20px; 
+    padding: 16px 32px;
+
+}
+
+.boutonG {
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    background-color: black;
+    color: white;
+}
+
+.H5 {
+    display: flex;
+    padding-left: 30%;
+    padding-top:3%;
+}
+.H6{
+    padding-right: 5%;
+}
+
+.H7{
+    padding-left: 5%;
+}
+
+.A {
+    display:flex;
+    padding: 56px 10%;
+
+}
+
+.IMex2 {
+    max-width: 678px;
+    max-height: 440px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+ .Titre2 {
+    font-weight: 700;
+    line-height: 120%;
+    font-size: 48px;
+ }
+
+.TX2 {
+    margin-top: 24px;
+    font-size: clamp(16px,2vw,20px);
+    line-height: 1.625;
+
+}
+
+.B{
+    background-color: #f6f6f6;
+    display:flex;
+    padding: 56px 10%;
+}
+.B2 {
+    display:block;
+}
+
+.C{
+    display:flex;
+    padding: 56px 10%;
+
+}
+
+.D {
+    background-color: #f6f6f6;
+    grid-column: 2/span 10;
+    text-align: center;
+    padding: 56px 10%;
+
+}
+
+.boutonB{
+    background-color: #5865f2;
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    margin-top: 40px;
+    color: white;
+    cursor: pointer;
+
+}
+
+.Titre3 {
+    font-family: var(--font-headline);
+font-weight: 800;
+line-height: 95%;
+text-transform: uppercase;
+text-rendering: geometricPrecision;
+font-size: clamp(20px,4vw,40px);
+
+}
+.Titre4 {
+    font-size:32px;
+    font-weight: 600px;
+    margin-top: 30px;
+}
+
+.E {
+    background-color: #23272a;
+    padding-top: 5%;
+}
+
+.GT {
+    font-size: 32px;
+}
+
+.E0{
+    display:flex;
+
+}
+
+.E1{
+    padding-right: 10%;
+    padding-left: 10%;
+    
+}
+.E2 {
+    display: grid;
+}
+
+.E11{
+    color: #5865f2;
+}
+
+.E12{
+    padding-bottom: 10%;
+    padding-top: 10%;
+    padding-left: -50px;
+}
+
+.E13{
+    display:flex;
+    padding-right: 3%;
+}
+
+.E131 {padding-left: 10%;
+}
+
+.E2{
+    padding-right: 5%;
+    padding-left: 5%;
+    
+}
+
+.T{
+    color:#5865f2  ;
+}
+
+.F{
+    background-color: #23272a;
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+
+hr{
+    color:#5865f2 ;
+    align:center;
+    width:90%;
+}
+.F2 {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10%;
+}
+.boutonC{
+    border-radius: 40px;
+    font-size: 14px;
+    padding: 5% 30%;
+    line-height: 24px;
+    cursor: pointer;
+    font-weight: 500;
+    background-color:#5865f2 ;
+    margin-top: 70%;
+}
+.Imd1{
+    padding: 5%;
+}
+
